@@ -1,0 +1,63 @@
+<html>
+	<head>
+		<title>Шпора</title>
+	<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+<link rel="shortcut icon" href="fav.png"  type="image/png">
+	</head>
+	<body class="left-sidebar is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+
+			<!-- Main -->
+			
+				<article id="main">
+
+					<header class="special">
+						<h2><a href="index.html" style="text-decoration: none">Шпаргалка</a></h2>
+						<h3>Геометрия, 10 класс</h3>
+						
+					</header>
+					<header class="special container borderheader">
+					</header>
+
+					<!-- One -->
+						<section class="wrapper style4 container">
+
+							<div class="row gtr-150">
+								
+								<div class="col-8">
+										<div class="content">
+											<section>
+												<header>
+													<h3>Выбор темы</h3>
+												</header>
+<p> <a href="perp.html"> Перпендикулярность</a><p>
+<p> <a href="ugol.html"> Угол</a><p>	
+<p> <a href="dist.html"> Расстояние</a><p>	
+<p> <a href="para.html"> Параллельность</a><p>		
+
+											</section>
+										</div>
+
+								</div>
+							</div>
+						</section>
+
+
+
+
+
+
+				
+				
+
+		</div>
+<footer id="footer">
+<p>Липецк, 2020</p>
+</footer>
+	</body>
+</html>
